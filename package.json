@@ -1,0 +1,15 @@
+{
+  "name": "cypress-demoblaze",
+  "version": "1.0.0",
+  "description": "Cypress E2E tests for DemoBlaze e-commerce store — login and laptop purchase flow",
+  "scripts": {
+    "typecheck": "tsc --noEmit -p cypress",
+    "cy:open": "cypress open",
+    "cy:run": "cypress run",
+    "cy:run:headed": "cypress run --headed"
+  },
+  "devDependencies": {
+    "cypress": "^13.6.0",
+    "typescript": "^5.9.3"
+  }
+}
