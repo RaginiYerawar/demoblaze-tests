@@ -29,8 +29,8 @@ You should see version numbers printed for both.
 ### 1. Clone the repository
 
 ```bash
-git clone <repository-url>
-cd cypress-demoblaze
+git clone https://github.com/RaginiYerawar/demoblaze-tests.git
+cd demoblaze-tests
 ```
 
 ### 2. Install dependencies
